@@ -1,0 +1,57 @@
+.productarea {
+  margin: 40px 0px;
+}
+.bg1 {
+  background-image: url(../images/1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 75px;
+  text-align: center;
+}
+.bg2 {
+  background-image: url(../images/2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 75px;
+  text-align: center;
+}
+.bg3 {
+  background-image: url(../images/3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 75px;
+  text-align: center;
+}
+.productarea h4 {
+  color: #fff;
+  font-size: 23px;
+  font-weight: 300;
+}
+.productarea h1 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+/* =============responsive-coad=================== */
+/* 
+Small devices (portrait phones,less then 576px)
+*/
+
+@media (max-width: 575.98px) {
+  .bg1 {
+    margin: 5px;
+  }
+  .bg2 {
+    margin: 5px;
+  }
+  .bg3 {
+    margin: 5px;
+  }
+}
+/* 
+Small devices (landscape phones, 576px and up)
+  */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+}

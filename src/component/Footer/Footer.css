@@ -1,0 +1,35 @@
+.footer {
+  background-color: #26292e;
+  padding: 20px 0px;
+}
+.ft-img {
+  text-align: center;
+}
+.footer p,
+h5 {
+  color: rgba(255, 255, 255, 0.849);
+  font-size: 17px;
+}
+.footer h2 {
+  color: rgba(255, 255, 255, 0.973);
+  font-size: 22px;
+  font-weight: 600;
+}
+.footer-md li {
+  list-style: none;
+  margin: 0px 0px 8px 0px;
+}
+.footer-md li a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.856);
+  font-size: 17px;
+}
+.footer-lt {
+  display: flex;
+}
+.ft-t {
+  margin-top: -14px;
+}
+.ft-bottom {
+  background-color: #36393f;
+}

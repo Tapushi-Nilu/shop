@@ -1,0 +1,39 @@
+.add-service {
+  padding: 40px;
+}
+.add-service form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.add-service form input,
+textarea {
+  width: 50%;
+  margin-bottom: 12px;
+}
+.btn-sn {
+  background: #333131 !important;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px 10px;
+  border: 1px solid #333131;
+}
+
+/* =============responsive-coad=================== */
+/* 
+Small devices (portrait phones,less then 576px)
+*/
+
+@media (max-width: 575.98px) {
+  .add-service form input,
+  textarea {
+    width: 100%;
+  }
+}
+/* 
+Small devices (landscape phones, 576px and up)
+  */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+}

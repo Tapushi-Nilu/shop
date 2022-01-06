@@ -1,0 +1,19 @@
+.review-frm input {
+  border: navajowhite;
+  border-bottom: 1px solid #ddd;
+  padding: 7px;
+  width: 50%;
+  margin: 10px 0px;
+}
+
+@media (max-width: 575.98px) {
+  .review-frm input {
+    width: 100%;
+  }
+}
+/* 
+Small devices (landscape phones, 576px and up)
+  */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+}

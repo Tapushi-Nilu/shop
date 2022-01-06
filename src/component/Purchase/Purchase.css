@@ -1,0 +1,74 @@
+.product-banner {
+  background-image: url(../images/bg3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 90px 0px;
+  text-align: center;
+  color: #fff;
+}
+.product-banner h1 {
+  font-weight: 600;
+  font-size: 42px;
+  margin-bottom: 20px;
+}
+.purchse {
+  margin: 50px 0px;
+}
+.booking form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cr {
+  border: none !important;
+  width: 90%;
+  height: 50%;
+}
+.booking form input {
+  margin: 5px 0px;
+  width: 100%;
+  padding: 11px;
+  margin: 10px;
+  border-radius: 10px;
+  background: #bbbbbb47;
+  color: #000;
+  font-size: 18px;
+  border: none;
+}
+.btn-sb {
+  background-color: #e08634 !important;
+}
+.card-imgs {
+  width: 90%;
+  border: 2px solid #ddd;
+  border-radius: 30px;
+}
+.title {
+  color: #000;
+  font-size: 32px;
+  font-weight: 700;
+  margin: 10px 0px;
+}
+.iconp {
+  font-size: 30px;
+  color: #ffd308;
+  border-bottom: 2px solid #0000008c;
+  padding: 10px 0px 20px 0px;
+}
+.text-p {
+  font-size: 20px;
+  margin-top: 20px;
+}
+.body {
+  margin-top: 32px;
+}
+.frm {
+  margin: 50px 0px;
+  padding: 31px;
+  box-shadow: 1px 7px 10px 10px #ddd;
+}
+.til {
+  color: #e08634;
+  font-weight: 700;
+}

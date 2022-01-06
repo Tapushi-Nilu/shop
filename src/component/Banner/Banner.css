@@ -1,0 +1,33 @@
+.banner {
+  background-image: url(../images/slider-02.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 80px 0px;
+}
+.banner-left {
+  color: #fff;
+}
+.banner-left h3 {
+  font-size: 25px;
+  font-weight: 300;
+}
+.banner-left h2 {
+  font-size: 58px;
+  font-weight: 200;
+  margin-bottom: -49px;
+}
+.banner-left h1 {
+  font-size: 80px;
+  font-weight: 700;
+  margin-top: 32px;
+}
+.b-btn {
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1;
+  padding: 21px 62px 22px;
+}
